@@ -1,4 +1,4 @@
-// Created by: Kenny Le
+// Created by: Lucas Tyman
 // Created on: May 2022
 //
 // This program determines what type of movie you can see
